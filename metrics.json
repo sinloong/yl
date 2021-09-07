@@ -1,0 +1,1812 @@
+{
+    "data": {
+        "actor": {
+            "account": {
+                "nrql": {
+                    "results": [
+                        {
+                            "beginTimeSeconds": 1627783200,
+                            "endTimeSeconds": 1627783260,
+                            "uniqueCount.Username": 43
+                        },
+                        {
+                            "beginTimeSeconds": 1627783260,
+                            "endTimeSeconds": 1627783320,
+                            "uniqueCount.Username": 46
+                        },
+                        {
+                            "beginTimeSeconds": 1627783320,
+                            "endTimeSeconds": 1627783380,
+                            "uniqueCount.Username": 52
+                        },
+                        {
+                            "beginTimeSeconds": 1627783380,
+                            "endTimeSeconds": 1627783440,
+                            "uniqueCount.Username": 61
+                        },
+                        {
+                            "beginTimeSeconds": 1627783440,
+                            "endTimeSeconds": 1627783500,
+                            "uniqueCount.Username": 50
+                        },
+                        {
+                            "beginTimeSeconds": 1627783500,
+                            "endTimeSeconds": 1627783560,
+                            "uniqueCount.Username": 51
+                        },
+                        {
+                            "beginTimeSeconds": 1627783560,
+                            "endTimeSeconds": 1627783620,
+                            "uniqueCount.Username": 56
+                        },
+                        {
+                            "beginTimeSeconds": 1627783620,
+                            "endTimeSeconds": 1627783680,
+                            "uniqueCount.Username": 55
+                        },
+                        {
+                            "beginTimeSeconds": 1627783680,
+                            "endTimeSeconds": 1627783740,
+                            "uniqueCount.Username": 51
+                        },
+                        {
+                            "beginTimeSeconds": 1627783740,
+                            "endTimeSeconds": 1627783800,
+                            "uniqueCount.Username": 48
+                        },
+                        {
+                            "beginTimeSeconds": 1627783800,
+                            "endTimeSeconds": 1627783860,
+                            "uniqueCount.Username": 54
+                        },
+                        {
+                            "beginTimeSeconds": 1627783860,
+                            "endTimeSeconds": 1627783920,
+                            "uniqueCount.Username": 48
+                        },
+                        {
+                            "beginTimeSeconds": 1627783920,
+                            "endTimeSeconds": 1627783980,
+                            "uniqueCount.Username": 55
+                        },
+                        {
+                            "beginTimeSeconds": 1627783980,
+                            "endTimeSeconds": 1627784040,
+                            "uniqueCount.Username": 48
+                        },
+                        {
+                            "beginTimeSeconds": 1627784040,
+                            "endTimeSeconds": 1627784100,
+                            "uniqueCount.Username": 42
+                        },
+                        {
+                            "beginTimeSeconds": 1627784100,
+                            "endTimeSeconds": 1627784160,
+                            "uniqueCount.Username": 41
+                        },
+                        {
+                            "beginTimeSeconds": 1627784160,
+                            "endTimeSeconds": 1627784220,
+                            "uniqueCount.Username": 48
+                        },
+                        {
+                            "beginTimeSeconds": 1627784220,
+                            "endTimeSeconds": 1627784280,
+                            "uniqueCount.Username": 55
+                        },
+                        {
+                            "beginTimeSeconds": 1627784280,
+                            "endTimeSeconds": 1627784340,
+                            "uniqueCount.Username": 50
+                        },
+                        {
+                            "beginTimeSeconds": 1627784340,
+                            "endTimeSeconds": 1627784400,
+                            "uniqueCount.Username": 61
+                        },
+                        {
+                            "beginTimeSeconds": 1627784400,
+                            "endTimeSeconds": 1627784460,
+                            "uniqueCount.Username": 51
+                        },
+                        {
+                            "beginTimeSeconds": 1627784460,
+                            "endTimeSeconds": 1627784520,
+                            "uniqueCount.Username": 46
+                        },
+                        {
+                            "beginTimeSeconds": 1627784520,
+                            "endTimeSeconds": 1627784580,
+                            "uniqueCount.Username": 39
+                        },
+                        {
+                            "beginTimeSeconds": 1627784580,
+                            "endTimeSeconds": 1627784640,
+                            "uniqueCount.Username": 46
+                        },
+                        {
+                            "beginTimeSeconds": 1627784640,
+                            "endTimeSeconds": 1627784700,
+                            "uniqueCount.Username": 40
+                        },
+                        {
+                            "beginTimeSeconds": 1627784700,
+                            "endTimeSeconds": 1627784760,
+                            "uniqueCount.Username": 47
+                        },
+                        {
+                            "beginTimeSeconds": 1627784760,
+                            "endTimeSeconds": 1627784820,
+                            "uniqueCount.Username": 50
+                        },
+                        {
+                            "beginTimeSeconds": 1627784820,
+                            "endTimeSeconds": 1627784880,
+                            "uniqueCount.Username": 57
+                        },
+                        {
+                            "beginTimeSeconds": 1627784880,
+                            "endTimeSeconds": 1627784940,
+                            "uniqueCount.Username": 59
+                        },
+                        {
+                            "beginTimeSeconds": 1627784940,
+                            "endTimeSeconds": 1627785000,
+                            "uniqueCount.Username": 42
+                        },
+                        {
+                            "beginTimeSeconds": 1627785000,
+                            "endTimeSeconds": 1627785060,
+                            "uniqueCount.Username": 44
+                        },
+                        {
+                            "beginTimeSeconds": 1627785060,
+                            "endTimeSeconds": 1627785120,
+                            "uniqueCount.Username": 54
+                        },
+                        {
+                            "beginTimeSeconds": 1627785120,
+                            "endTimeSeconds": 1627785180,
+                            "uniqueCount.Username": 42
+                        },
+                        {
+                            "beginTimeSeconds": 1627785180,
+                            "endTimeSeconds": 1627785240,
+                            "uniqueCount.Username": 40
+                        },
+                        {
+                            "beginTimeSeconds": 1627785240,
+                            "endTimeSeconds": 1627785300,
+                            "uniqueCount.Username": 50
+                        },
+                        {
+                            "beginTimeSeconds": 1627785300,
+                            "endTimeSeconds": 1627785360,
+                            "uniqueCount.Username": 53
+                        },
+                        {
+                            "beginTimeSeconds": 1627785360,
+                            "endTimeSeconds": 1627785420,
+                            "uniqueCount.Username": 47
+                        },
+                        {
+                            "beginTimeSeconds": 1627785420,
+                            "endTimeSeconds": 1627785480,
+                            "uniqueCount.Username": 41
+                        },
+                        {
+                            "beginTimeSeconds": 1627785480,
+                            "endTimeSeconds": 1627785540,
+                            "uniqueCount.Username": 54
+                        },
+                        {
+                            "beginTimeSeconds": 1627785540,
+                            "endTimeSeconds": 1627785600,
+                            "uniqueCount.Username": 50
+                        },
+                        {
+                            "beginTimeSeconds": 1627785600,
+                            "endTimeSeconds": 1627785660,
+                            "uniqueCount.Username": 42
+                        },
+                        {
+                            "beginTimeSeconds": 1627785660,
+                            "endTimeSeconds": 1627785720,
+                            "uniqueCount.Username": 46
+                        },
+                        {
+                            "beginTimeSeconds": 1627785720,
+                            "endTimeSeconds": 1627785780,
+                            "uniqueCount.Username": 45
+                        },
+                        {
+                            "beginTimeSeconds": 1627785780,
+                            "endTimeSeconds": 1627785840,
+                            "uniqueCount.Username": 48
+                        },
+                        {
+                            "beginTimeSeconds": 1627785840,
+                            "endTimeSeconds": 1627785900,
+                            "uniqueCount.Username": 57
+                        },
+                        {
+                            "beginTimeSeconds": 1627785900,
+                            "endTimeSeconds": 1627785960,
+                            "uniqueCount.Username": 52
+                        },
+                        {
+                            "beginTimeSeconds": 1627785960,
+                            "endTimeSeconds": 1627786020,
+                            "uniqueCount.Username": 55
+                        },
+                        {
+                            "beginTimeSeconds": 1627786020,
+                            "endTimeSeconds": 1627786080,
+                            "uniqueCount.Username": 52
+                        },
+                        {
+                            "beginTimeSeconds": 1627786080,
+                            "endTimeSeconds": 1627786140,
+                            "uniqueCount.Username": 51
+                        },
+                        {
+                            "beginTimeSeconds": 1627786140,
+                            "endTimeSeconds": 1627786200,
+                            "uniqueCount.Username": 55
+                        },
+                        {
+                            "beginTimeSeconds": 1627786200,
+                            "endTimeSeconds": 1627786260,
+                            "uniqueCount.Username": 50
+                        },
+                        {
+                            "beginTimeSeconds": 1627786260,
+                            "endTimeSeconds": 1627786320,
+                            "uniqueCount.Username": 45
+                        },
+                        {
+                            "beginTimeSeconds": 1627786320,
+                            "endTimeSeconds": 1627786380,
+                            "uniqueCount.Username": 56
+                        },
+                        {
+                            "beginTimeSeconds": 1627786380,
+                            "endTimeSeconds": 1627786440,
+                            "uniqueCount.Username": 55
+                        },
+                        {
+                            "beginTimeSeconds": 1627786440,
+                            "endTimeSeconds": 1627786500,
+                            "uniqueCount.Username": 50
+                        },
+                        {
+                            "beginTimeSeconds": 1627786500,
+                            "endTimeSeconds": 1627786560,
+                            "uniqueCount.Username": 60
+                        },
+                        {
+                            "beginTimeSeconds": 1627786560,
+                            "endTimeSeconds": 1627786620,
+                            "uniqueCount.Username": 55
+                        },
+                        {
+                            "beginTimeSeconds": 1627786620,
+                            "endTimeSeconds": 1627786680,
+                            "uniqueCount.Username": 49
+                        },
+                        {
+                            "beginTimeSeconds": 1627786680,
+                            "endTimeSeconds": 1627786740,
+                            "uniqueCount.Username": 52
+                        },
+                        {
+                            "beginTimeSeconds": 1627786740,
+                            "endTimeSeconds": 1627786800,
+                            "uniqueCount.Username": 58
+                        },
+                        {
+                            "beginTimeSeconds": 1627786800,
+                            "endTimeSeconds": 1627786860,
+                            "uniqueCount.Username": 64
+                        },
+                        {
+                            "beginTimeSeconds": 1627786860,
+                            "endTimeSeconds": 1627786920,
+                            "uniqueCount.Username": 72
+                        },
+                        {
+                            "beginTimeSeconds": 1627786920,
+                            "endTimeSeconds": 1627786980,
+                            "uniqueCount.Username": 67
+                        },
+                        {
+                            "beginTimeSeconds": 1627786980,
+                            "endTimeSeconds": 1627787040,
+                            "uniqueCount.Username": 59
+                        },
+                        {
+                            "beginTimeSeconds": 1627787040,
+                            "endTimeSeconds": 1627787100,
+                            "uniqueCount.Username": 57
+                        },
+                        {
+                            "beginTimeSeconds": 1627787100,
+                            "endTimeSeconds": 1627787160,
+                            "uniqueCount.Username": 57
+                        },
+                        {
+                            "beginTimeSeconds": 1627787160,
+                            "endTimeSeconds": 1627787220,
+                            "uniqueCount.Username": 60
+                        },
+                        {
+                            "beginTimeSeconds": 1627787220,
+                            "endTimeSeconds": 1627787280,
+                            "uniqueCount.Username": 64
+                        },
+                        {
+                            "beginTimeSeconds": 1627787280,
+                            "endTimeSeconds": 1627787340,
+                            "uniqueCount.Username": 66
+                        },
+                        {
+                            "beginTimeSeconds": 1627787340,
+                            "endTimeSeconds": 1627787400,
+                            "uniqueCount.Username": 61
+                        },
+                        {
+                            "beginTimeSeconds": 1627787400,
+                            "endTimeSeconds": 1627787460,
+                            "uniqueCount.Username": 64
+                        },
+                        {
+                            "beginTimeSeconds": 1627787460,
+                            "endTimeSeconds": 1627787520,
+                            "uniqueCount.Username": 56
+                        },
+                        {
+                            "beginTimeSeconds": 1627787520,
+                            "endTimeSeconds": 1627787580,
+                            "uniqueCount.Username": 55
+                        },
+                        {
+                            "beginTimeSeconds": 1627787580,
+                            "endTimeSeconds": 1627787640,
+                            "uniqueCount.Username": 57
+                        },
+                        {
+                            "beginTimeSeconds": 1627787640,
+                            "endTimeSeconds": 1627787700,
+                            "uniqueCount.Username": 57
+                        },
+                        {
+                            "beginTimeSeconds": 1627787700,
+                            "endTimeSeconds": 1627787760,
+                            "uniqueCount.Username": 56
+                        },
+                        {
+                            "beginTimeSeconds": 1627787760,
+                            "endTimeSeconds": 1627787820,
+                            "uniqueCount.Username": 50
+                        },
+                        {
+                            "beginTimeSeconds": 1627787820,
+                            "endTimeSeconds": 1627787880,
+                            "uniqueCount.Username": 55
+                        },
+                        {
+                            "beginTimeSeconds": 1627787880,
+                            "endTimeSeconds": 1627787940,
+                            "uniqueCount.Username": 59
+                        },
+                        {
+                            "beginTimeSeconds": 1627787940,
+                            "endTimeSeconds": 1627788000,
+                            "uniqueCount.Username": 54
+                        },
+                        {
+                            "beginTimeSeconds": 1627788000,
+                            "endTimeSeconds": 1627788060,
+                            "uniqueCount.Username": 51
+                        },
+                        {
+                            "beginTimeSeconds": 1627788060,
+                            "endTimeSeconds": 1627788120,
+                            "uniqueCount.Username": 64
+                        },
+                        {
+                            "beginTimeSeconds": 1627788120,
+                            "endTimeSeconds": 1627788180,
+                            "uniqueCount.Username": 67
+                        },
+                        {
+                            "beginTimeSeconds": 1627788180,
+                            "endTimeSeconds": 1627788240,
+                            "uniqueCount.Username": 64
+                        },
+                        {
+                            "beginTimeSeconds": 1627788240,
+                            "endTimeSeconds": 1627788300,
+                            "uniqueCount.Username": 62
+                        },
+                        {
+                            "beginTimeSeconds": 1627788300,
+                            "endTimeSeconds": 1627788360,
+                            "uniqueCount.Username": 62
+                        },
+                        {
+                            "beginTimeSeconds": 1627788360,
+                            "endTimeSeconds": 1627788420,
+                            "uniqueCount.Username": 63
+                        },
+                        {
+                            "beginTimeSeconds": 1627788420,
+                            "endTimeSeconds": 1627788480,
+                            "uniqueCount.Username": 75
+                        },
+                        {
+                            "beginTimeSeconds": 1627788480,
+                            "endTimeSeconds": 1627788540,
+                            "uniqueCount.Username": 64
+                        },
+                        {
+                            "beginTimeSeconds": 1627788540,
+                            "endTimeSeconds": 1627788600,
+                            "uniqueCount.Username": 65
+                        },
+                        {
+                            "beginTimeSeconds": 1627788600,
+                            "endTimeSeconds": 1627788660,
+                            "uniqueCount.Username": 71
+                        },
+                        {
+                            "beginTimeSeconds": 1627788660,
+                            "endTimeSeconds": 1627788720,
+                            "uniqueCount.Username": 59
+                        },
+                        {
+                            "beginTimeSeconds": 1627788720,
+                            "endTimeSeconds": 1627788780,
+                            "uniqueCount.Username": 61
+                        },
+                        {
+                            "beginTimeSeconds": 1627788780,
+                            "endTimeSeconds": 1627788840,
+                            "uniqueCount.Username": 66
+                        },
+                        {
+                            "beginTimeSeconds": 1627788840,
+                            "endTimeSeconds": 1627788900,
+                            "uniqueCount.Username": 69
+                        },
+                        {
+                            "beginTimeSeconds": 1627788900,
+                            "endTimeSeconds": 1627788960,
+                            "uniqueCount.Username": 75
+                        },
+                        {
+                            "beginTimeSeconds": 1627788960,
+                            "endTimeSeconds": 1627789020,
+                            "uniqueCount.Username": 74
+                        },
+                        {
+                            "beginTimeSeconds": 1627789020,
+                            "endTimeSeconds": 1627789080,
+                            "uniqueCount.Username": 74
+                        },
+                        {
+                            "beginTimeSeconds": 1627789080,
+                            "endTimeSeconds": 1627789140,
+                            "uniqueCount.Username": 62
+                        },
+                        {
+                            "beginTimeSeconds": 1627789140,
+                            "endTimeSeconds": 1627789200,
+                            "uniqueCount.Username": 62
+                        },
+                        {
+                            "beginTimeSeconds": 1627789200,
+                            "endTimeSeconds": 1627789260,
+                            "uniqueCount.Username": 60
+                        },
+                        {
+                            "beginTimeSeconds": 1627789260,
+                            "endTimeSeconds": 1627789320,
+                            "uniqueCount.Username": 67
+                        },
+                        {
+                            "beginTimeSeconds": 1627789320,
+                            "endTimeSeconds": 1627789380,
+                            "uniqueCount.Username": 73
+                        },
+                        {
+                            "beginTimeSeconds": 1627789380,
+                            "endTimeSeconds": 1627789440,
+                            "uniqueCount.Username": 64
+                        },
+                        {
+                            "beginTimeSeconds": 1627789440,
+                            "endTimeSeconds": 1627789500,
+                            "uniqueCount.Username": 54
+                        },
+                        {
+                            "beginTimeSeconds": 1627789500,
+                            "endTimeSeconds": 1627789560,
+                            "uniqueCount.Username": 62
+                        },
+                        {
+                            "beginTimeSeconds": 1627789560,
+                            "endTimeSeconds": 1627789620,
+                            "uniqueCount.Username": 57
+                        },
+                        {
+                            "beginTimeSeconds": 1627789620,
+                            "endTimeSeconds": 1627789680,
+                            "uniqueCount.Username": 49
+                        },
+                        {
+                            "beginTimeSeconds": 1627789680,
+                            "endTimeSeconds": 1627789740,
+                            "uniqueCount.Username": 51
+                        },
+                        {
+                            "beginTimeSeconds": 1627789740,
+                            "endTimeSeconds": 1627789800,
+                            "uniqueCount.Username": 54
+                        },
+                        {
+                            "beginTimeSeconds": 1627789800,
+                            "endTimeSeconds": 1627789860,
+                            "uniqueCount.Username": 61
+                        },
+                        {
+                            "beginTimeSeconds": 1627789860,
+                            "endTimeSeconds": 1627789920,
+                            "uniqueCount.Username": 60
+                        },
+                        {
+                            "beginTimeSeconds": 1627789920,
+                            "endTimeSeconds": 1627789980,
+                            "uniqueCount.Username": 49
+                        },
+                        {
+                            "beginTimeSeconds": 1627789980,
+                            "endTimeSeconds": 1627790040,
+                            "uniqueCount.Username": 58
+                        },
+                        {
+                            "beginTimeSeconds": 1627790040,
+                            "endTimeSeconds": 1627790100,
+                            "uniqueCount.Username": 44
+                        },
+                        {
+                            "beginTimeSeconds": 1627790100,
+                            "endTimeSeconds": 1627790160,
+                            "uniqueCount.Username": 51
+                        },
+                        {
+                            "beginTimeSeconds": 1627790160,
+                            "endTimeSeconds": 1627790220,
+                            "uniqueCount.Username": 42
+                        },
+                        {
+                            "beginTimeSeconds": 1627790220,
+                            "endTimeSeconds": 1627790280,
+                            "uniqueCount.Username": 54
+                        },
+                        {
+                            "beginTimeSeconds": 1627790280,
+                            "endTimeSeconds": 1627790340,
+                            "uniqueCount.Username": 60
+                        },
+                        {
+                            "beginTimeSeconds": 1627790340,
+                            "endTimeSeconds": 1627790400,
+                            "uniqueCount.Username": 52
+                        },
+                        {
+                            "beginTimeSeconds": 1627790400,
+                            "endTimeSeconds": 1627790460,
+                            "uniqueCount.Username": 35
+                        },
+                        {
+                            "beginTimeSeconds": 1627790460,
+                            "endTimeSeconds": 1627790520,
+                            "uniqueCount.Username": 36
+                        },
+                        {
+                            "beginTimeSeconds": 1627790520,
+                            "endTimeSeconds": 1627790580,
+                            "uniqueCount.Username": 42
+                        },
+                        {
+                            "beginTimeSeconds": 1627790580,
+                            "endTimeSeconds": 1627790640,
+                            "uniqueCount.Username": 38
+                        },
+                        {
+                            "beginTimeSeconds": 1627790640,
+                            "endTimeSeconds": 1627790700,
+                            "uniqueCount.Username": 48
+                        },
+                        {
+                            "beginTimeSeconds": 1627790700,
+                            "endTimeSeconds": 1627790760,
+                            "uniqueCount.Username": 55
+                        },
+                        {
+                            "beginTimeSeconds": 1627790760,
+                            "endTimeSeconds": 1627790820,
+                            "uniqueCount.Username": 45
+                        },
+                        {
+                            "beginTimeSeconds": 1627790820,
+                            "endTimeSeconds": 1627790880,
+                            "uniqueCount.Username": 45
+                        },
+                        {
+                            "beginTimeSeconds": 1627790880,
+                            "endTimeSeconds": 1627790940,
+                            "uniqueCount.Username": 44
+                        },
+                        {
+                            "beginTimeSeconds": 1627790940,
+                            "endTimeSeconds": 1627791000,
+                            "uniqueCount.Username": 47
+                        },
+                        {
+                            "beginTimeSeconds": 1627791000,
+                            "endTimeSeconds": 1627791060,
+                            "uniqueCount.Username": 52
+                        },
+                        {
+                            "beginTimeSeconds": 1627791060,
+                            "endTimeSeconds": 1627791120,
+                            "uniqueCount.Username": 47
+                        },
+                        {
+                            "beginTimeSeconds": 1627791120,
+                            "endTimeSeconds": 1627791180,
+                            "uniqueCount.Username": 49
+                        },
+                        {
+                            "beginTimeSeconds": 1627791180,
+                            "endTimeSeconds": 1627791240,
+                            "uniqueCount.Username": 57
+                        },
+                        {
+                            "beginTimeSeconds": 1627791240,
+                            "endTimeSeconds": 1627791300,
+                            "uniqueCount.Username": 52
+                        },
+                        {
+                            "beginTimeSeconds": 1627791300,
+                            "endTimeSeconds": 1627791360,
+                            "uniqueCount.Username": 50
+                        },
+                        {
+                            "beginTimeSeconds": 1627791360,
+                            "endTimeSeconds": 1627791420,
+                            "uniqueCount.Username": 42
+                        },
+                        {
+                            "beginTimeSeconds": 1627791420,
+                            "endTimeSeconds": 1627791480,
+                            "uniqueCount.Username": 41
+                        },
+                        {
+                            "beginTimeSeconds": 1627791480,
+                            "endTimeSeconds": 1627791540,
+                            "uniqueCount.Username": 41
+                        },
+                        {
+                            "beginTimeSeconds": 1627791540,
+                            "endTimeSeconds": 1627791600,
+                            "uniqueCount.Username": 44
+                        },
+                        {
+                            "beginTimeSeconds": 1627791600,
+                            "endTimeSeconds": 1627791660,
+                            "uniqueCount.Username": 50
+                        },
+                        {
+                            "beginTimeSeconds": 1627791660,
+                            "endTimeSeconds": 1627791720,
+                            "uniqueCount.Username": 50
+                        },
+                        {
+                            "beginTimeSeconds": 1627791720,
+                            "endTimeSeconds": 1627791780,
+                            "uniqueCount.Username": 37
+                        },
+                        {
+                            "beginTimeSeconds": 1627791780,
+                            "endTimeSeconds": 1627791840,
+                            "uniqueCount.Username": 41
+                        },
+                        {
+                            "beginTimeSeconds": 1627791840,
+                            "endTimeSeconds": 1627791900,
+                            "uniqueCount.Username": 51
+                        },
+                        {
+                            "beginTimeSeconds": 1627791900,
+                            "endTimeSeconds": 1627791960,
+                            "uniqueCount.Username": 50
+                        },
+                        {
+                            "beginTimeSeconds": 1627791960,
+                            "endTimeSeconds": 1627792020,
+                            "uniqueCount.Username": 50
+                        },
+                        {
+                            "beginTimeSeconds": 1627792020,
+                            "endTimeSeconds": 1627792080,
+                            "uniqueCount.Username": 61
+                        },
+                        {
+                            "beginTimeSeconds": 1627792080,
+                            "endTimeSeconds": 1627792140,
+                            "uniqueCount.Username": 54
+                        },
+                        {
+                            "beginTimeSeconds": 1627792140,
+                            "endTimeSeconds": 1627792200,
+                            "uniqueCount.Username": 47
+                        },
+                        {
+                            "beginTimeSeconds": 1627792200,
+                            "endTimeSeconds": 1627792260,
+                            "uniqueCount.Username": 45
+                        },
+                        {
+                            "beginTimeSeconds": 1627792260,
+                            "endTimeSeconds": 1627792320,
+                            "uniqueCount.Username": 48
+                        },
+                        {
+                            "beginTimeSeconds": 1627792320,
+                            "endTimeSeconds": 1627792380,
+                            "uniqueCount.Username": 48
+                        },
+                        {
+                            "beginTimeSeconds": 1627792380,
+                            "endTimeSeconds": 1627792440,
+                            "uniqueCount.Username": 41
+                        },
+                        {
+                            "beginTimeSeconds": 1627792440,
+                            "endTimeSeconds": 1627792500,
+                            "uniqueCount.Username": 46
+                        },
+                        {
+                            "beginTimeSeconds": 1627792500,
+                            "endTimeSeconds": 1627792560,
+                            "uniqueCount.Username": 41
+                        },
+                        {
+                            "beginTimeSeconds": 1627792560,
+                            "endTimeSeconds": 1627792620,
+                            "uniqueCount.Username": 33
+                        },
+                        {
+                            "beginTimeSeconds": 1627792620,
+                            "endTimeSeconds": 1627792680,
+                            "uniqueCount.Username": 46
+                        },
+                        {
+                            "beginTimeSeconds": 1627792680,
+                            "endTimeSeconds": 1627792740,
+                            "uniqueCount.Username": 41
+                        },
+                        {
+                            "beginTimeSeconds": 1627792740,
+                            "endTimeSeconds": 1627792800,
+                            "uniqueCount.Username": 55
+                        },
+                        {
+                            "beginTimeSeconds": 1627792800,
+                            "endTimeSeconds": 1627792860,
+                            "uniqueCount.Username": 58
+                        },
+                        {
+                            "beginTimeSeconds": 1627792860,
+                            "endTimeSeconds": 1627792920,
+                            "uniqueCount.Username": 58
+                        },
+                        {
+                            "beginTimeSeconds": 1627792920,
+                            "endTimeSeconds": 1627792980,
+                            "uniqueCount.Username": 51
+                        },
+                        {
+                            "beginTimeSeconds": 1627792980,
+                            "endTimeSeconds": 1627793040,
+                            "uniqueCount.Username": 66
+                        },
+                        {
+                            "beginTimeSeconds": 1627793040,
+                            "endTimeSeconds": 1627793100,
+                            "uniqueCount.Username": 49
+                        },
+                        {
+                            "beginTimeSeconds": 1627793100,
+                            "endTimeSeconds": 1627793160,
+                            "uniqueCount.Username": 48
+                        },
+                        {
+                            "beginTimeSeconds": 1627793160,
+                            "endTimeSeconds": 1627793220,
+                            "uniqueCount.Username": 49
+                        },
+                        {
+                            "beginTimeSeconds": 1627793220,
+                            "endTimeSeconds": 1627793280,
+                            "uniqueCount.Username": 53
+                        },
+                        {
+                            "beginTimeSeconds": 1627793280,
+                            "endTimeSeconds": 1627793340,
+                            "uniqueCount.Username": 57
+                        },
+                        {
+                            "beginTimeSeconds": 1627793340,
+                            "endTimeSeconds": 1627793400,
+                            "uniqueCount.Username": 54
+                        },
+                        {
+                            "beginTimeSeconds": 1627793400,
+                            "endTimeSeconds": 1627793460,
+                            "uniqueCount.Username": 58
+                        },
+                        {
+                            "beginTimeSeconds": 1627793460,
+                            "endTimeSeconds": 1627793520,
+                            "uniqueCount.Username": 50
+                        },
+                        {
+                            "beginTimeSeconds": 1627793520,
+                            "endTimeSeconds": 1627793580,
+                            "uniqueCount.Username": 58
+                        },
+                        {
+                            "beginTimeSeconds": 1627793580,
+                            "endTimeSeconds": 1627793640,
+                            "uniqueCount.Username": 49
+                        },
+                        {
+                            "beginTimeSeconds": 1627793640,
+                            "endTimeSeconds": 1627793700,
+                            "uniqueCount.Username": 60
+                        },
+                        {
+                            "beginTimeSeconds": 1627793700,
+                            "endTimeSeconds": 1627793760,
+                            "uniqueCount.Username": 59
+                        },
+                        {
+                            "beginTimeSeconds": 1627793760,
+                            "endTimeSeconds": 1627793820,
+                            "uniqueCount.Username": 57
+                        },
+                        {
+                            "beginTimeSeconds": 1627793820,
+                            "endTimeSeconds": 1627793880,
+                            "uniqueCount.Username": 69
+                        },
+                        {
+                            "beginTimeSeconds": 1627793880,
+                            "endTimeSeconds": 1627793940,
+                            "uniqueCount.Username": 56
+                        },
+                        {
+                            "beginTimeSeconds": 1627793940,
+                            "endTimeSeconds": 1627794000,
+                            "uniqueCount.Username": 66
+                        },
+                        {
+                            "beginTimeSeconds": 1627794000,
+                            "endTimeSeconds": 1627794060,
+                            "uniqueCount.Username": 70
+                        },
+                        {
+                            "beginTimeSeconds": 1627794060,
+                            "endTimeSeconds": 1627794120,
+                            "uniqueCount.Username": 62
+                        },
+                        {
+                            "beginTimeSeconds": 1627794120,
+                            "endTimeSeconds": 1627794180,
+                            "uniqueCount.Username": 59
+                        },
+                        {
+                            "beginTimeSeconds": 1627794180,
+                            "endTimeSeconds": 1627794240,
+                            "uniqueCount.Username": 61
+                        },
+                        {
+                            "beginTimeSeconds": 1627794240,
+                            "endTimeSeconds": 1627794300,
+                            "uniqueCount.Username": 60
+                        },
+                        {
+                            "beginTimeSeconds": 1627794300,
+                            "endTimeSeconds": 1627794360,
+                            "uniqueCount.Username": 61
+                        },
+                        {
+                            "beginTimeSeconds": 1627794360,
+                            "endTimeSeconds": 1627794420,
+                            "uniqueCount.Username": 60
+                        },
+                        {
+                            "beginTimeSeconds": 1627794420,
+                            "endTimeSeconds": 1627794480,
+                            "uniqueCount.Username": 56
+                        },
+                        {
+                            "beginTimeSeconds": 1627794480,
+                            "endTimeSeconds": 1627794540,
+                            "uniqueCount.Username": 58
+                        },
+                        {
+                            "beginTimeSeconds": 1627794540,
+                            "endTimeSeconds": 1627794600,
+                            "uniqueCount.Username": 51
+                        },
+                        {
+                            "beginTimeSeconds": 1627794600,
+                            "endTimeSeconds": 1627794660,
+                            "uniqueCount.Username": 48
+                        },
+                        {
+                            "beginTimeSeconds": 1627794660,
+                            "endTimeSeconds": 1627794720,
+                            "uniqueCount.Username": 46
+                        },
+                        {
+                            "beginTimeSeconds": 1627794720,
+                            "endTimeSeconds": 1627794780,
+                            "uniqueCount.Username": 38
+                        },
+                        {
+                            "beginTimeSeconds": 1627794780,
+                            "endTimeSeconds": 1627794840,
+                            "uniqueCount.Username": 48
+                        },
+                        {
+                            "beginTimeSeconds": 1627794840,
+                            "endTimeSeconds": 1627794900,
+                            "uniqueCount.Username": 52
+                        },
+                        {
+                            "beginTimeSeconds": 1627794900,
+                            "endTimeSeconds": 1627794960,
+                            "uniqueCount.Username": 49
+                        },
+                        {
+                            "beginTimeSeconds": 1627794960,
+                            "endTimeSeconds": 1627795020,
+                            "uniqueCount.Username": 48
+                        },
+                        {
+                            "beginTimeSeconds": 1627795020,
+                            "endTimeSeconds": 1627795080,
+                            "uniqueCount.Username": 58
+                        },
+                        {
+                            "beginTimeSeconds": 1627795080,
+                            "endTimeSeconds": 1627795140,
+                            "uniqueCount.Username": 44
+                        },
+                        {
+                            "beginTimeSeconds": 1627795140,
+                            "endTimeSeconds": 1627795200,
+                            "uniqueCount.Username": 64
+                        },
+                        {
+                            "beginTimeSeconds": 1627795200,
+                            "endTimeSeconds": 1627795260,
+                            "uniqueCount.Username": 57
+                        },
+                        {
+                            "beginTimeSeconds": 1627795260,
+                            "endTimeSeconds": 1627795320,
+                            "uniqueCount.Username": 51
+                        },
+                        {
+                            "beginTimeSeconds": 1627795320,
+                            "endTimeSeconds": 1627795380,
+                            "uniqueCount.Username": 61
+                        },
+                        {
+                            "beginTimeSeconds": 1627795380,
+                            "endTimeSeconds": 1627795440,
+                            "uniqueCount.Username": 61
+                        },
+                        {
+                            "beginTimeSeconds": 1627795440,
+                            "endTimeSeconds": 1627795500,
+                            "uniqueCount.Username": 54
+                        },
+                        {
+                            "beginTimeSeconds": 1627795500,
+                            "endTimeSeconds": 1627795560,
+                            "uniqueCount.Username": 55
+                        },
+                        {
+                            "beginTimeSeconds": 1627795560,
+                            "endTimeSeconds": 1627795620,
+                            "uniqueCount.Username": 52
+                        },
+                        {
+                            "beginTimeSeconds": 1627795620,
+                            "endTimeSeconds": 1627795680,
+                            "uniqueCount.Username": 55
+                        },
+                        {
+                            "beginTimeSeconds": 1627795680,
+                            "endTimeSeconds": 1627795740,
+                            "uniqueCount.Username": 63
+                        },
+                        {
+                            "beginTimeSeconds": 1627795740,
+                            "endTimeSeconds": 1627795800,
+                            "uniqueCount.Username": 62
+                        },
+                        {
+                            "beginTimeSeconds": 1627795800,
+                            "endTimeSeconds": 1627795860,
+                            "uniqueCount.Username": 62
+                        },
+                        {
+                            "beginTimeSeconds": 1627795860,
+                            "endTimeSeconds": 1627795920,
+                            "uniqueCount.Username": 50
+                        },
+                        {
+                            "beginTimeSeconds": 1627795920,
+                            "endTimeSeconds": 1627795980,
+                            "uniqueCount.Username": 54
+                        },
+                        {
+                            "beginTimeSeconds": 1627795980,
+                            "endTimeSeconds": 1627796040,
+                            "uniqueCount.Username": 53
+                        },
+                        {
+                            "beginTimeSeconds": 1627796040,
+                            "endTimeSeconds": 1627796100,
+                            "uniqueCount.Username": 59
+                        },
+                        {
+                            "beginTimeSeconds": 1627796100,
+                            "endTimeSeconds": 1627796160,
+                            "uniqueCount.Username": 58
+                        },
+                        {
+                            "beginTimeSeconds": 1627796160,
+                            "endTimeSeconds": 1627796220,
+                            "uniqueCount.Username": 56
+                        },
+                        {
+                            "beginTimeSeconds": 1627796220,
+                            "endTimeSeconds": 1627796280,
+                            "uniqueCount.Username": 58
+                        },
+                        {
+                            "beginTimeSeconds": 1627796280,
+                            "endTimeSeconds": 1627796340,
+                            "uniqueCount.Username": 56
+                        },
+                        {
+                            "beginTimeSeconds": 1627796340,
+                            "endTimeSeconds": 1627796400,
+                            "uniqueCount.Username": 55
+                        },
+                        {
+                            "beginTimeSeconds": 1627796400,
+                            "endTimeSeconds": 1627796460,
+                            "uniqueCount.Username": 49
+                        },
+                        {
+                            "beginTimeSeconds": 1627796460,
+                            "endTimeSeconds": 1627796520,
+                            "uniqueCount.Username": 47
+                        },
+                        {
+                            "beginTimeSeconds": 1627796520,
+                            "endTimeSeconds": 1627796580,
+                            "uniqueCount.Username": 39
+                        },
+                        {
+                            "beginTimeSeconds": 1627796580,
+                            "endTimeSeconds": 1627796640,
+                            "uniqueCount.Username": 46
+                        },
+                        {
+                            "beginTimeSeconds": 1627796640,
+                            "endTimeSeconds": 1627796700,
+                            "uniqueCount.Username": 47
+                        },
+                        {
+                            "beginTimeSeconds": 1627796700,
+                            "endTimeSeconds": 1627796760,
+                            "uniqueCount.Username": 47
+                        },
+                        {
+                            "beginTimeSeconds": 1627796760,
+                            "endTimeSeconds": 1627796820,
+                            "uniqueCount.Username": 49
+                        },
+                        {
+                            "beginTimeSeconds": 1627796820,
+                            "endTimeSeconds": 1627796880,
+                            "uniqueCount.Username": 39
+                        },
+                        {
+                            "beginTimeSeconds": 1627796880,
+                            "endTimeSeconds": 1627796940,
+                            "uniqueCount.Username": 45
+                        },
+                        {
+                            "beginTimeSeconds": 1627796940,
+                            "endTimeSeconds": 1627797000,
+                            "uniqueCount.Username": 40
+                        },
+                        {
+                            "beginTimeSeconds": 1627797000,
+                            "endTimeSeconds": 1627797060,
+                            "uniqueCount.Username": 41
+                        },
+                        {
+                            "beginTimeSeconds": 1627797060,
+                            "endTimeSeconds": 1627797120,
+                            "uniqueCount.Username": 42
+                        },
+                        {
+                            "beginTimeSeconds": 1627797120,
+                            "endTimeSeconds": 1627797180,
+                            "uniqueCount.Username": 35
+                        },
+                        {
+                            "beginTimeSeconds": 1627797180,
+                            "endTimeSeconds": 1627797240,
+                            "uniqueCount.Username": 43
+                        },
+                        {
+                            "beginTimeSeconds": 1627797240,
+                            "endTimeSeconds": 1627797300,
+                            "uniqueCount.Username": 56
+                        },
+                        {
+                            "beginTimeSeconds": 1627797300,
+                            "endTimeSeconds": 1627797360,
+                            "uniqueCount.Username": 57
+                        },
+                        {
+                            "beginTimeSeconds": 1627797360,
+                            "endTimeSeconds": 1627797420,
+                            "uniqueCount.Username": 55
+                        },
+                        {
+                            "beginTimeSeconds": 1627797420,
+                            "endTimeSeconds": 1627797480,
+                            "uniqueCount.Username": 52
+                        },
+                        {
+                            "beginTimeSeconds": 1627797480,
+                            "endTimeSeconds": 1627797540,
+                            "uniqueCount.Username": 54
+                        },
+                        {
+                            "beginTimeSeconds": 1627797540,
+                            "endTimeSeconds": 1627797600,
+                            "uniqueCount.Username": 48
+                        },
+                        {
+                            "beginTimeSeconds": 1627797600,
+                            "endTimeSeconds": 1627797660,
+                            "uniqueCount.Username": 62
+                        },
+                        {
+                            "beginTimeSeconds": 1627797660,
+                            "endTimeSeconds": 1627797720,
+                            "uniqueCount.Username": 61
+                        },
+                        {
+                            "beginTimeSeconds": 1627797720,
+                            "endTimeSeconds": 1627797780,
+                            "uniqueCount.Username": 67
+                        },
+                        {
+                            "beginTimeSeconds": 1627797780,
+                            "endTimeSeconds": 1627797840,
+                            "uniqueCount.Username": 62
+                        },
+                        {
+                            "beginTimeSeconds": 1627797840,
+                            "endTimeSeconds": 1627797900,
+                            "uniqueCount.Username": 54
+                        },
+                        {
+                            "beginTimeSeconds": 1627797900,
+                            "endTimeSeconds": 1627797960,
+                            "uniqueCount.Username": 70
+                        },
+                        {
+                            "beginTimeSeconds": 1627797960,
+                            "endTimeSeconds": 1627798020,
+                            "uniqueCount.Username": 64
+                        },
+                        {
+                            "beginTimeSeconds": 1627798020,
+                            "endTimeSeconds": 1627798080,
+                            "uniqueCount.Username": 58
+                        },
+                        {
+                            "beginTimeSeconds": 1627798080,
+                            "endTimeSeconds": 1627798140,
+                            "uniqueCount.Username": 57
+                        },
+                        {
+                            "beginTimeSeconds": 1627798140,
+                            "endTimeSeconds": 1627798200,
+                            "uniqueCount.Username": 50
+                        },
+                        {
+                            "beginTimeSeconds": 1627798200,
+                            "endTimeSeconds": 1627798260,
+                            "uniqueCount.Username": 49
+                        },
+                        {
+                            "beginTimeSeconds": 1627798260,
+                            "endTimeSeconds": 1627798320,
+                            "uniqueCount.Username": 55
+                        },
+                        {
+                            "beginTimeSeconds": 1627798320,
+                            "endTimeSeconds": 1627798380,
+                            "uniqueCount.Username": 53
+                        },
+                        {
+                            "beginTimeSeconds": 1627798380,
+                            "endTimeSeconds": 1627798440,
+                            "uniqueCount.Username": 46
+                        },
+                        {
+                            "beginTimeSeconds": 1627798440,
+                            "endTimeSeconds": 1627798500,
+                            "uniqueCount.Username": 55
+                        },
+                        {
+                            "beginTimeSeconds": 1627798500,
+                            "endTimeSeconds": 1627798560,
+                            "uniqueCount.Username": 57
+                        },
+                        {
+                            "beginTimeSeconds": 1627798560,
+                            "endTimeSeconds": 1627798620,
+                            "uniqueCount.Username": 64
+                        },
+                        {
+                            "beginTimeSeconds": 1627798620,
+                            "endTimeSeconds": 1627798680,
+                            "uniqueCount.Username": 66
+                        },
+                        {
+                            "beginTimeSeconds": 1627798680,
+                            "endTimeSeconds": 1627798740,
+                            "uniqueCount.Username": 58
+                        },
+                        {
+                            "beginTimeSeconds": 1627798740,
+                            "endTimeSeconds": 1627798800,
+                            "uniqueCount.Username": 74
+                        },
+                        {
+                            "beginTimeSeconds": 1627798800,
+                            "endTimeSeconds": 1627798860,
+                            "uniqueCount.Username": 62
+                        },
+                        {
+                            "beginTimeSeconds": 1627798860,
+                            "endTimeSeconds": 1627798920,
+                            "uniqueCount.Username": 54
+                        },
+                        {
+                            "beginTimeSeconds": 1627798920,
+                            "endTimeSeconds": 1627798980,
+                            "uniqueCount.Username": 64
+                        },
+                        {
+                            "beginTimeSeconds": 1627798980,
+                            "endTimeSeconds": 1627799040,
+                            "uniqueCount.Username": 63
+                        },
+                        {
+                            "beginTimeSeconds": 1627799040,
+                            "endTimeSeconds": 1627799100,
+                            "uniqueCount.Username": 64
+                        },
+                        {
+                            "beginTimeSeconds": 1627799100,
+                            "endTimeSeconds": 1627799160,
+                            "uniqueCount.Username": 67
+                        },
+                        {
+                            "beginTimeSeconds": 1627799160,
+                            "endTimeSeconds": 1627799220,
+                            "uniqueCount.Username": 65
+                        },
+                        {
+                            "beginTimeSeconds": 1627799220,
+                            "endTimeSeconds": 1627799280,
+                            "uniqueCount.Username": 68
+                        },
+                        {
+                            "beginTimeSeconds": 1627799280,
+                            "endTimeSeconds": 1627799340,
+                            "uniqueCount.Username": 65
+                        },
+                        {
+                            "beginTimeSeconds": 1627799340,
+                            "endTimeSeconds": 1627799400,
+                            "uniqueCount.Username": 68
+                        },
+                        {
+                            "beginTimeSeconds": 1627799400,
+                            "endTimeSeconds": 1627799460,
+                            "uniqueCount.Username": 66
+                        },
+                        {
+                            "beginTimeSeconds": 1627799460,
+                            "endTimeSeconds": 1627799520,
+                            "uniqueCount.Username": 65
+                        },
+                        {
+                            "beginTimeSeconds": 1627799520,
+                            "endTimeSeconds": 1627799580,
+                            "uniqueCount.Username": 61
+                        },
+                        {
+                            "beginTimeSeconds": 1627799580,
+                            "endTimeSeconds": 1627799640,
+                            "uniqueCount.Username": 65
+                        },
+                        {
+                            "beginTimeSeconds": 1627799640,
+                            "endTimeSeconds": 1627799700,
+                            "uniqueCount.Username": 62
+                        },
+                        {
+                            "beginTimeSeconds": 1627799700,
+                            "endTimeSeconds": 1627799760,
+                            "uniqueCount.Username": 64
+                        },
+                        {
+                            "beginTimeSeconds": 1627799760,
+                            "endTimeSeconds": 1627799820,
+                            "uniqueCount.Username": 65
+                        },
+                        {
+                            "beginTimeSeconds": 1627799820,
+                            "endTimeSeconds": 1627799880,
+                            "uniqueCount.Username": 74
+                        },
+                        {
+                            "beginTimeSeconds": 1627799880,
+                            "endTimeSeconds": 1627799940,
+                            "uniqueCount.Username": 80
+                        },
+                        {
+                            "beginTimeSeconds": 1627799940,
+                            "endTimeSeconds": 1627800000,
+                            "uniqueCount.Username": 68
+                        },
+                        {
+                            "beginTimeSeconds": 1627800000,
+                            "endTimeSeconds": 1627800060,
+                            "uniqueCount.Username": 68
+                        },
+                        {
+                            "beginTimeSeconds": 1627800060,
+                            "endTimeSeconds": 1627800120,
+                            "uniqueCount.Username": 61
+                        },
+                        {
+                            "beginTimeSeconds": 1627800120,
+                            "endTimeSeconds": 1627800180,
+                            "uniqueCount.Username": 63
+                        },
+                        {
+                            "beginTimeSeconds": 1627800180,
+                            "endTimeSeconds": 1627800240,
+                            "uniqueCount.Username": 63
+                        },
+                        {
+                            "beginTimeSeconds": 1627800240,
+                            "endTimeSeconds": 1627800300,
+                            "uniqueCount.Username": 61
+                        },
+                        {
+                            "beginTimeSeconds": 1627800300,
+                            "endTimeSeconds": 1627800360,
+                            "uniqueCount.Username": 60
+                        },
+                        {
+                            "beginTimeSeconds": 1627800360,
+                            "endTimeSeconds": 1627800420,
+                            "uniqueCount.Username": 50
+                        },
+                        {
+                            "beginTimeSeconds": 1627800420,
+                            "endTimeSeconds": 1627800480,
+                            "uniqueCount.Username": 66
+                        },
+                        {
+                            "beginTimeSeconds": 1627800480,
+                            "endTimeSeconds": 1627800540,
+                            "uniqueCount.Username": 65
+                        },
+                        {
+                            "beginTimeSeconds": 1627800540,
+                            "endTimeSeconds": 1627800600,
+                            "uniqueCount.Username": 58
+                        },
+                        {
+                            "beginTimeSeconds": 1627800600,
+                            "endTimeSeconds": 1627800660,
+                            "uniqueCount.Username": 66
+                        },
+                        {
+                            "beginTimeSeconds": 1627800660,
+                            "endTimeSeconds": 1627800720,
+                            "uniqueCount.Username": 70
+                        },
+                        {
+                            "beginTimeSeconds": 1627800720,
+                            "endTimeSeconds": 1627800780,
+                            "uniqueCount.Username": 68
+                        },
+                        {
+                            "beginTimeSeconds": 1627800780,
+                            "endTimeSeconds": 1627800840,
+                            "uniqueCount.Username": 68
+                        },
+                        {
+                            "beginTimeSeconds": 1627800840,
+                            "endTimeSeconds": 1627800900,
+                            "uniqueCount.Username": 67
+                        },
+                        {
+                            "beginTimeSeconds": 1627800900,
+                            "endTimeSeconds": 1627800960,
+                            "uniqueCount.Username": 62
+                        },
+                        {
+                            "beginTimeSeconds": 1627800960,
+                            "endTimeSeconds": 1627801020,
+                            "uniqueCount.Username": 64
+                        },
+                        {
+                            "beginTimeSeconds": 1627801020,
+                            "endTimeSeconds": 1627801080,
+                            "uniqueCount.Username": 71
+                        },
+                        {
+                            "beginTimeSeconds": 1627801080,
+                            "endTimeSeconds": 1627801140,
+                            "uniqueCount.Username": 74
+                        },
+                        {
+                            "beginTimeSeconds": 1627801140,
+                            "endTimeSeconds": 1627801200,
+                            "uniqueCount.Username": 70
+                        },
+                        {
+                            "beginTimeSeconds": 1627801200,
+                            "endTimeSeconds": 1627801260,
+                            "uniqueCount.Username": 77
+                        },
+                        {
+                            "beginTimeSeconds": 1627801260,
+                            "endTimeSeconds": 1627801320,
+                            "uniqueCount.Username": 79
+                        },
+                        {
+                            "beginTimeSeconds": 1627801320,
+                            "endTimeSeconds": 1627801380,
+                            "uniqueCount.Username": 76
+                        },
+                        {
+                            "beginTimeSeconds": 1627801380,
+                            "endTimeSeconds": 1627801440,
+                            "uniqueCount.Username": 69
+                        },
+                        {
+                            "beginTimeSeconds": 1627801440,
+                            "endTimeSeconds": 1627801500,
+                            "uniqueCount.Username": 73
+                        },
+                        {
+                            "beginTimeSeconds": 1627801500,
+                            "endTimeSeconds": 1627801560,
+                            "uniqueCount.Username": 63
+                        },
+                        {
+                            "beginTimeSeconds": 1627801560,
+                            "endTimeSeconds": 1627801620,
+                            "uniqueCount.Username": 66
+                        },
+                        {
+                            "beginTimeSeconds": 1627801620,
+                            "endTimeSeconds": 1627801680,
+                            "uniqueCount.Username": 79
+                        },
+                        {
+                            "beginTimeSeconds": 1627801680,
+                            "endTimeSeconds": 1627801740,
+                            "uniqueCount.Username": 77
+                        },
+                        {
+                            "beginTimeSeconds": 1627801740,
+                            "endTimeSeconds": 1627801800,
+                            "uniqueCount.Username": 74
+                        },
+                        {
+                            "beginTimeSeconds": 1627801800,
+                            "endTimeSeconds": 1627801860,
+                            "uniqueCount.Username": 78
+                        },
+                        {
+                            "beginTimeSeconds": 1627801860,
+                            "endTimeSeconds": 1627801920,
+                            "uniqueCount.Username": 78
+                        },
+                        {
+                            "beginTimeSeconds": 1627801920,
+                            "endTimeSeconds": 1627801980,
+                            "uniqueCount.Username": 81
+                        },
+                        {
+                            "beginTimeSeconds": 1627801980,
+                            "endTimeSeconds": 1627802040,
+                            "uniqueCount.Username": 77
+                        },
+                        {
+                            "beginTimeSeconds": 1627802040,
+                            "endTimeSeconds": 1627802100,
+                            "uniqueCount.Username": 76
+                        },
+                        {
+                            "beginTimeSeconds": 1627802100,
+                            "endTimeSeconds": 1627802160,
+                            "uniqueCount.Username": 77
+                        },
+                        {
+                            "beginTimeSeconds": 1627802160,
+                            "endTimeSeconds": 1627802220,
+                            "uniqueCount.Username": 88
+                        },
+                        {
+                            "beginTimeSeconds": 1627802220,
+                            "endTimeSeconds": 1627802280,
+                            "uniqueCount.Username": 72
+                        },
+                        {
+                            "beginTimeSeconds": 1627802280,
+                            "endTimeSeconds": 1627802340,
+                            "uniqueCount.Username": 66
+                        },
+                        {
+                            "beginTimeSeconds": 1627802340,
+                            "endTimeSeconds": 1627802400,
+                            "uniqueCount.Username": 70
+                        },
+                        {
+                            "beginTimeSeconds": 1627802400,
+                            "endTimeSeconds": 1627802460,
+                            "uniqueCount.Username": 81
+                        },
+                        {
+                            "beginTimeSeconds": 1627802460,
+                            "endTimeSeconds": 1627802520,
+                            "uniqueCount.Username": 86
+                        },
+                        {
+                            "beginTimeSeconds": 1627802520,
+                            "endTimeSeconds": 1627802580,
+                            "uniqueCount.Username": 65
+                        },
+                        {
+                            "beginTimeSeconds": 1627802580,
+                            "endTimeSeconds": 1627802640,
+                            "uniqueCount.Username": 75
+                        },
+                        {
+                            "beginTimeSeconds": 1627802640,
+                            "endTimeSeconds": 1627802700,
+                            "uniqueCount.Username": 67
+                        },
+                        {
+                            "beginTimeSeconds": 1627802700,
+                            "endTimeSeconds": 1627802760,
+                            "uniqueCount.Username": 66
+                        },
+                        {
+                            "beginTimeSeconds": 1627802760,
+                            "endTimeSeconds": 1627802820,
+                            "uniqueCount.Username": 57
+                        },
+                        {
+                            "beginTimeSeconds": 1627802820,
+                            "endTimeSeconds": 1627802880,
+                            "uniqueCount.Username": 68
+                        },
+                        {
+                            "beginTimeSeconds": 1627802880,
+                            "endTimeSeconds": 1627802940,
+                            "uniqueCount.Username": 56
+                        },
+                        {
+                            "beginTimeSeconds": 1627802940,
+                            "endTimeSeconds": 1627803000,
+                            "uniqueCount.Username": 60
+                        },
+                        {
+                            "beginTimeSeconds": 1627803000,
+                            "endTimeSeconds": 1627803060,
+                            "uniqueCount.Username": 61
+                        },
+                        {
+                            "beginTimeSeconds": 1627803060,
+                            "endTimeSeconds": 1627803120,
+                            "uniqueCount.Username": 81
+                        },
+                        {
+                            "beginTimeSeconds": 1627803120,
+                            "endTimeSeconds": 1627803180,
+                            "uniqueCount.Username": 65
+                        },
+                        {
+                            "beginTimeSeconds": 1627803180,
+                            "endTimeSeconds": 1627803240,
+                            "uniqueCount.Username": 56
+                        },
+                        {
+                            "beginTimeSeconds": 1627803240,
+                            "endTimeSeconds": 1627803300,
+                            "uniqueCount.Username": 64
+                        },
+                        {
+                            "beginTimeSeconds": 1627803300,
+                            "endTimeSeconds": 1627803360,
+                            "uniqueCount.Username": 64
+                        },
+                        {
+                            "beginTimeSeconds": 1627803360,
+                            "endTimeSeconds": 1627803420,
+                            "uniqueCount.Username": 66
+                        },
+                        {
+                            "beginTimeSeconds": 1627803420,
+                            "endTimeSeconds": 1627803480,
+                            "uniqueCount.Username": 69
+                        },
+                        {
+                            "beginTimeSeconds": 1627803480,
+                            "endTimeSeconds": 1627803540,
+                            "uniqueCount.Username": 80
+                        },
+                        {
+                            "beginTimeSeconds": 1627803540,
+                            "endTimeSeconds": 1627803600,
+                            "uniqueCount.Username": 71
+                        },
+                        {
+                            "beginTimeSeconds": 1627803600,
+                            "endTimeSeconds": 1627803660,
+                            "uniqueCount.Username": 65
+                        },
+                        {
+                            "beginTimeSeconds": 1627803660,
+                            "endTimeSeconds": 1627803720,
+                            "uniqueCount.Username": 76
+                        },
+                        {
+                            "beginTimeSeconds": 1627803720,
+                            "endTimeSeconds": 1627803780,
+                            "uniqueCount.Username": 76
+                        },
+                        {
+                            "beginTimeSeconds": 1627803780,
+                            "endTimeSeconds": 1627803840,
+                            "uniqueCount.Username": 78
+                        },
+                        {
+                            "beginTimeSeconds": 1627803840,
+                            "endTimeSeconds": 1627803900,
+                            "uniqueCount.Username": 67
+                        },
+                        {
+                            "beginTimeSeconds": 1627803900,
+                            "endTimeSeconds": 1627803960,
+                            "uniqueCount.Username": 64
+                        },
+                        {
+                            "beginTimeSeconds": 1627803960,
+                            "endTimeSeconds": 1627804020,
+                            "uniqueCount.Username": 68
+                        },
+                        {
+                            "beginTimeSeconds": 1627804020,
+                            "endTimeSeconds": 1627804080,
+                            "uniqueCount.Username": 66
+                        },
+                        {
+                            "beginTimeSeconds": 1627804080,
+                            "endTimeSeconds": 1627804140,
+                            "uniqueCount.Username": 69
+                        },
+                        {
+                            "beginTimeSeconds": 1627804140,
+                            "endTimeSeconds": 1627804200,
+                            "uniqueCount.Username": 62
+                        },
+                        {
+                            "beginTimeSeconds": 1627804200,
+                            "endTimeSeconds": 1627804260,
+                            "uniqueCount.Username": 79
+                        },
+                        {
+                            "beginTimeSeconds": 1627804260,
+                            "endTimeSeconds": 1627804320,
+                            "uniqueCount.Username": 77
+                        },
+                        {
+                            "beginTimeSeconds": 1627804320,
+                            "endTimeSeconds": 1627804380,
+                            "uniqueCount.Username": 82
+                        },
+                        {
+                            "beginTimeSeconds": 1627804380,
+                            "endTimeSeconds": 1627804440,
+                            "uniqueCount.Username": 73
+                        },
+                        {
+                            "beginTimeSeconds": 1627804440,
+                            "endTimeSeconds": 1627804500,
+                            "uniqueCount.Username": 76
+                        },
+                        {
+                            "beginTimeSeconds": 1627804500,
+                            "endTimeSeconds": 1627804560,
+                            "uniqueCount.Username": 79
+                        },
+                        {
+                            "beginTimeSeconds": 1627804560,
+                            "endTimeSeconds": 1627804620,
+                            "uniqueCount.Username": 75
+                        },
+                        {
+                            "beginTimeSeconds": 1627804620,
+                            "endTimeSeconds": 1627804680,
+                            "uniqueCount.Username": 79
+                        },
+                        {
+                            "beginTimeSeconds": 1627804680,
+                            "endTimeSeconds": 1627804740,
+                            "uniqueCount.Username": 72
+                        },
+                        {
+                            "beginTimeSeconds": 1627804740,
+                            "endTimeSeconds": 1627804800,
+                            "uniqueCount.Username": 72
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}           
